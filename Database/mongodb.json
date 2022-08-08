@@ -1,0 +1,5 @@
+{
+    "mongo":{
+       "uri":"mongodb+srv://dbEdubot:edubot404@cluster0.mdb2k.mongodb.net/edubot?retryWrites=true&w=majority"
+    }
+}
